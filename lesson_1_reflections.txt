@@ -1,0 +1,30 @@
+cd ~                          # change directories to your home directory
+mkdir version-control         # make version-control directory
+cd version-control            # go to version-control directory
+mkdir reflections             # create reflections directory
+cd reflections                # go to reflections directory
+atom lesson_1_reflections.txt # launch sublime with file called lesson_1_reflections
+
+
+pwd # print working directory - shows what directory you are in
+ls  # list the files in this directory
+
+Once I figured out the order of the files and which file the + and - symbol
+referred to, diff and fc were very helpful.  Version control can help a lot in
+having a history of all the modules you have developed.  You won't lose code
+ideas and it will help you improve your coding by chronicling your strengths and
+weaknesses.
+
+There are pros and cons of manual and automatic commits.  I think I hybrid
+approach would be best.  If you forget to commit a lot of changes, the system
+should sense this and commit periodically.  If commits are being done at
+reasonable intervals, auto-commits should turn off.
+
+Git is clearly tailored to more complex environments where files are related as
+with complex software projects.  Google docs seems to be tailored to simple
+single doc version control.  Mastering git could really help me understand
+the history of my coding projects and help me find code.
+
+The checkout feature in git could have saved me hours on my last project.  I
+spent a lot of time between different files in various directories trying to
+fix code.  I want to use it on my next coding project.
