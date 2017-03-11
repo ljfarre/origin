@@ -1,0 +1,10 @@
+You have to run git init to start the git tracking and versioning process.
+It creates the hidden git directory and the necessary files for git version
+control to work properly.
+
+The staging area is important.  It protects the working directory and the
+repository.  When changes are staged, there is less chance of a mistake.  If a
+mistake is made, only the staging area is affected.
+
+You can use the staging area to control commits by comparing it to the
+working directory.
