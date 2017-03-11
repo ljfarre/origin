@@ -7,4 +7,4 @@ repository.  When changes are staged, there is less chance of a mistake.  If a
 mistake is made, only the staging area is affected.
 
 You can use the staging area to control commits by comparing it to the
-working directory.  This is a sentence to test this concept.
+working directory.  This is a sentence to test this concept. And it worked well.
